@@ -1,5 +1,5 @@
 import { ProductsProvider } from "../providers/products"
-import { SearchProvider } from "../providers/saerch"
+import { SearchProvider } from "../providers/search"
 
 const GlobalProvider: React.FC = ({ children }) => {
   return (
